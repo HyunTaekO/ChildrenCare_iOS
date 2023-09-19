@@ -1,4 +1,4 @@
-# ChildrenCare App(*iOS 15.2)
+# <img src="https://github.com/TeamMeloMeter/MeloMeter/assets/111224287/d07bfc76-8849-4053-b418-15413e75bec6" width="50" height="50"/> ChildrenCare App(*iOS 15.2)
 # 위치 기반 학생 관리 서비스
 체험학습 상황에서 위치기반으로 학생들을 관리하고 AR 요소를 통해 흥미를 이끌 수 있는 iOS 앱 입니다.
 
@@ -8,10 +8,11 @@
 ---
 - Swift
 - StoryBoard
-- Firebase: 푸시 알림 기능에 사용합니다.
+- Firebase
 - DataBase: Realm, mySQL
 - Server: Apach, Tomcat
 - GoogleMaps
+- ARKit
 
 ### 📌 팀원 구성
 
@@ -24,17 +25,19 @@
 
 ---
 
-‘ChildrenCare’ 는 선생, 학생들을 위한 체험학습용 앱입니다.
+‘ChildrenCare’ 는 교사와 학생들을 위한 체험학습용 앱입니다.
 
-QR코드를 통해 간편하게 학생을 등록하세요.
+초・중・고등학교 교사의 체험학습 상황에서의 고충을 해결하기 위해 기획했습니다.
 
-등록된 학생들의 위치를 실시간으로 확인해보세요. 
+현직 교사와 인터뷰를 통해 요구사항을 파악했습니다.
 
-체험학습 범위를 직접 설정해보세요. 
+'체험학습 장소에서 길을 잃는 학생이 있다'
 
-학생들의 위치 이탈을 확인하고 알림을 받아보세요.
+'흥미 요소가 있으면 좋겠다'
 
-AR 요소를 찾아 체험학습에 재미를 더해보세요.
+'고령층의 교사들을 고려해 직관적이면 좋겠다'
+
+이 3가지를 중점으로 기획 / 디자인 / 개발 했습니다.
 
 ### 📌 시연 영상
 
@@ -47,6 +50,8 @@ https://www.youtube.com/watch?v=0LXcR-KwjAY
 ### 📌 주요 기능
 
 ---
+
+<img width="1010" alt="image" src="https://github.com/TeamMeloMeter/MeloMeter/assets/111224287/b33e23dc-9ead-4aa1-9d38-0ee09e420c2d">
 
 - **사용자 인증**
     
